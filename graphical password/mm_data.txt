@@ -1,0 +1,1 @@
+{'username': 'mm', 'click_points': [[(389, 271)], [(389, 189)], [(369, 239)]], 'image_sequence': ['image1.jpg.png', 'image2.jpg.png', 'image3.jpg.png']}
